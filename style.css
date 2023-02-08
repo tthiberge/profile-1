@@ -64,8 +64,7 @@ ul {
 }
 
 #list-item > li {
-  display: inline-block;
-  padding: 0px 5px;
+  padding: 0px 10px;
   font-size: 15px;
   line-height: 20px;
 }
