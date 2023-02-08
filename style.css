@@ -55,13 +55,14 @@ a:hover {
 
 ul {
   list-style: none;
+  /* Très important! C'est ça qui enlève bullet point et design associé dont padding */ */
   /* padding-inline-start: 0px; */
 }
 
 .list-inline > li {
   display: inline-block;
   padding: 0px 20px;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 #list-item > li {
